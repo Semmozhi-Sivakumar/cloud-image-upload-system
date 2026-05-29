@@ -1,6 +1,7 @@
 # cloud-image-upload-system
 Image upload and storage system built using Flask, AWS S3, and boto3.
 --------------------------------------------------------------------
+SUMMARY OF THIS PROJECT.
 1. Created a Flask web application to build the backend server and handle image uploads from users through a web browser.
 
 2. Designed the frontend using HTML and CSS with separate templates and static folders for a professional user interface.
@@ -24,3 +25,5 @@ Image upload and storage system built using Flask, AWS S3, and boto3.
 11. Learned important cloud concepts such as S3 storage, IAM security, ACL permissions, public URLs, metadata handling, Flask backend development, and AWS integration.
 
 12. Debugged and fixed real-world issues including invalid AWS keys, virtual environment problems, Flask installation errors, permission issues, and image download/display behavior.
+
+    
